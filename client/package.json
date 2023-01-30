@@ -4,13 +4,25 @@
   "private": true,
   "proxy": "http://localhost:3000",
   "dependencies": {
+    "@chakra-ui/react": "^2.4.8",
+    "@chatscope/chat-ui-kit-react": "^1.9.9",
+    "@chatscope/chat-ui-kit-styles": "^1.4.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@rails/actioncable": "^7.0.4-1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "actioncable": "^5.2.8-1",
+    "antd": "^5.1.5",
+    "framer-motion": "^8.4.3",
+    "framework7-react": "^7.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.6.2",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "xtypejs": "^0.7.1"
   },
   "scripts": {
     "start": "PORT=4000 react-scripts start",
